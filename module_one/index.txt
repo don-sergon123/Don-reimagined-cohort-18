@@ -1,0 +1,36 @@
+Recarp from the Previous lesson(s)
+
+    => git and github
+        => git workflow( clone, fork, push, Pull Requests)
+    => wsl
+    => HTML & CSS fundamentals
+    => programming, flowchart, pseudocodes
+    => JS environments & history 
+    => operands, operators, data types
+
+
+
+
+What is a variable in programming and how do we use variables in JS
+
+=> an expression that will actually point to the data types held in memory
+=> the data type can be either a primitive or complex
+
+=> there exist three type of variable/bindings in JS
+    1. keyword var
+        => the oldest, for modern js we normally avoid using it because of scope issues
+        => a variable declaration is always hoisted to the top of th global scope
+    2. keyword let
+        => were declared in 2015 (ECMAScript15)
+        => let will allow you to declare and reuse it
+    3. keyword const
+        => were declared in 2015 (ECMAScript15)
+        => stands for a constant, you can on only declare it once and can't reuse it
+
+
+FUNCTIONS in JS
+ => they are used to group related code under one locallized scope
+ => it make's it to be reuasable by invocking the function names
+
+ 1. Function signature
+ 2. Function body
